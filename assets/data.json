@@ -1,0 +1,181 @@
+{
+  "data": [
+    {
+      "name": "Common Cold",
+      "about": "Colds are very common. A visit to your health care provider's office is often not needed, and colds often get better in 3 to 4 days. A type of germ called a virus causes most colds. There are many types of viruses that can cause a cold. Depending on what virus you have, your symptoms may vary.",
+      "symptoms": [
+        "Fever (100°F [37.7°C] or higher) and chills",
+        "Headache, sore muscles, and fatigue",
+        "Cough",
+        "Nasal symptoms, such as stuffiness, runny nose, yellow or green snot, and sneezing",
+        "Sore throat"
+      ],
+      "home_remedies": [
+        "Drink plenty of fluids. Water, juice, clear broth or warm lemon water are good choices. Avoid caffeine and alcohol, which can dehydrate you.",
+        "Sip warm liquids. Chicken soup and other warm fluids, such as tea or warm apple juice, can be soothing and can loosen congestion. Honey may help coughs in adults and children who are older than age 1. Try it in hot tea.",
+        "Rest. If possible, stay home from work or school if you have a fever or a bad cough or are drowsy after taking medications. This will give you a chance to rest and heal, as well as reduce the chances that you'll spread your cold to others.",
+        "Adjust your room's temperature and humidity. Keep your room warm, but not overheated. If the air is dry, a cool-mist humidifier or vaporizer can moisten the air and help ease congestion and coughing. Clean your humidifier according to the manufacturer's directions to prevent the growth of bacteria and molds.",
+        "Soothe a sore throat. A saltwater gargle of 1/4 to 1/2 teaspoon (1250-2500 milligrams) of table salt in 4 to 8 ounces (120 to 240 milliliters) of warm water can help soothe a sore throat. Gargle the solution and then spit it out. Children younger than 6 years are unlikely to be able to gargle properly.",
+        "Taking spoonful of honey or adding it to a hot drink, such as an herbal tea.",
+        "Ginger may ease a dry or asthmatic cough, as it has anti-inflammatory properties. It may also relieve nausea and pain."
+      ],
+      "medications": [
+        "Cough Syrup: Helps with sore throat",
+        "Pain relievers: Ease fever, headaches, and minor aches and pains"
+      ],
+      "note": "It's important to note that antibiotic resistance is a growing concern in typhoid fever, so it's important to consult with a healthcare professional to determine the best course of treatment.",
+      "imageURL": "https://cloud.appwrite.io/v1/storage/buckets/63cbe7eb86f859942c32/files/63cc146b8ee39e233df7/view?project=63caf7433048aa5d17fe&mode=admin"
+    },
+    {
+      "name": "Diarrhea",
+      "about": "Diarrhea is a digestive problem that causes loose, watery bowel movements. It can be uncomfortable for a few hours or days, after which the symptoms should improve. In some instances, they last longer.",
+      "symptoms": [
+        "Watery, loose stools",
+        "Frequent bowel movements",
+        "Cramping or pain in the abdomen, nausea, bloating",
+        "Possibly fever or bloody stools, depending on the cause"
+      ],
+      "home_remedies": [
+        "Hydrating the body is essential to recovering from diarrhea. Diarrhea causes a deficit of fluids, including water. This causes the body to lose electrolytes such as sodium and chloride. To support recovery, it is vital to restore fluids. Otherwise, a person may become dehydrated.",
+        "A diet of small, frequent meals can be better than eating three larger meals a day when recovering from diarrhea."
+      ],
+      "medications": [
+        "ORS oral rehydration salts is a special combination of dry salts that is mixed with safe water. It can help replace the fluids lost due to diarrhea."
+      ],
+      "note": "It's important to note that antibiotic resistance is a growing concern in typhoid fever, so it's important to consult with a healthcare professional to determine the best course of treatment.",
+      "imageURL": "https://cloud.appwrite.io/v1/storage/buckets/63cbe7eb86f859942c32/files/63cc1471639635d6d1b0/view?project=63caf7433048aa5d17fe&mode=admin"
+    },
+    {
+      "name": "Headaches",
+      "about": "A headache is a pain in your head or face that’s often described as a pressure that’s throbbing, constant, sharp or dull. Headaches can differ greatly in regard to pain type, severity, location and frequency.",
+      "symptoms": [
+        "Excessive fatigue",
+        "Dizziness",
+        "Constant, dull ache felt on both sides of the head"
+      ],
+      "home_remedies": [
+        "Avoid noisy places and digital devices",
+        "Ice pack held over the eyes or forehead",
+        "Sleep, or at least resting in a dark room",
+        "Taking breaks from stressful situations"
+      ],
+      "medications": [
+        "Pain relievers: Ease fever, headaches, and minor aches and pains"
+      ],
+      "note": "It's important to note that antibiotic resistance is a growing concern in typhoid fever, so it's important to consult with a healthcare professional to determine the best course of treatment.",
+      "imageURL": "https://cloud.appwrite.io/v1/storage/buckets/63cbe7eb86f859942c32/files/63cc1471639635d6d1b0/view?project=63caf7433048aa5d17fe&mode=admin"
+    },
+    {
+      "name": "Malaria",
+      "about": "Malaria is a serious disease caused by a parasite that is transmitted to humans through the bite of an infected mosquito.",
+      "symptoms": [
+        "Fever: High fever is one of the most common symptoms of malaria and can range from mild to severe.",
+        "Chills: Malaria can cause shivering and chills, as well as sweating, which can make the individual feel very cold.",
+        "Headaches: Malaria can cause severe headaches, which can be accompanied by nausea and vomiting.",
+        "Fatigue: Malaria can cause extreme fatigue, weakness, and exhaustion.",
+        "Muscle pain: Malaria can cause muscle and joint pain, which can be severe and debilitating."
+      ],
+      "home_remedies": [
+        "Hydration: Drinking plenty of water can help to prevent dehydration, which can worsen the symptoms of malaria.",
+        "Rest: Getting plenty of rest can help to reduce fatigue and weakness, which are common symptoms of malaria.",
+        "Herbal teas: Drinking herbal teas, such as chamomile, lemon balm, and ginger, can help to reduce fever and improve digestion.",
+        "Lemon: Drinking lemon juice can help to boost the immune system and fight against the malaria parasite.",
+        "Garlic: Garlic contains compounds that can help to boost the immune system and fight against the malaria parasite.",
+        "Turmeric: Turmeric contains compounds that can help to reduce inflammation and improve the immune system.",
+        "Papaya leaves: Papaya leaves contain compounds that can help to increase platelet count and improve the immune system."
+      ],
+      "medications": [
+        "Over-the-counter pain relievers: Taking over-the-counter pain relievers, such as acetaminophen or ibuprofen, can help to alleviate headache, muscle pain, and fever."
+      ],
+      "note": "It's important to note that antibiotic resistance is a growing concern in typhoid fever, so it's important to consult with a healthcare professional to determine the best course of treatment.",
+      "imageURL": "https://cloud.appwrite.io/v1/storage/buckets/63cbe7eb86f859942c32/files/63cc147e981df728c7c1/view?project=63caf7433048aa5d17fe&mode=admin"
+    },
+    {
+      "name": "Chicken Pox",
+      "about": "Chickenpox is a highly contagious viral infection that is characterized by an itchy rash that develops into fluid-filled blisters",
+      "symptoms": [
+        "Rash: The most characteristic symptom of chickenpox is a rash that develops on the face, scalp, chest, and back. The rash starts as small red bumps that quickly turn into fluid-filled blisters.",
+        "Itching: The rash and blisters are often itchy, which can be uncomfortable for the individual.",
+        "Fever: Chickenpox is often accompanied by a fever, which can range from mild to moderate.",
+        "Fatigue: Individuals with chickenpox may feel tired and weak.",
+        "Loss of appetite: Some people may lose their appetite during the course of the illness.",
+        "Headache: Some people may experience a headache along with the fever.",
+        "Sore throat: Some people may experience a sore throat.",
+        "Swelling of the lymph nodes: Some people may experience swollen lymph nodes as a result of the infection.",
+        "Chest pain: Some individuals may experience chest pain.",
+        "Coughing: Some individuals may experience coughing."
+      ],
+      "home_remedies": [
+        "Cool compresses: Applying a cool compress to the rash can help to relieve itching.",
+        "Drinking fluids: Drinking fluids can help to prevent dehydration and soothe a sore throat.",
+        "Aloe vera: Applying aloe vera gel to the rash can help to soothe the itchiness and reduce inflammation.",
+        "Vitamin A: Vitamin A is known to boost the immune system and may help in preventing severe complications.",
+        "Lemon: Drinking lemon juice can help to boost the immune system."
+      ],
+      "medications": [
+        "Over-the-counter pain relievers: Taking over-the-counter pain relievers, such as acetaminophen or ibuprofen, can help to alleviate headache, muscle pain, and fever."
+      ],
+      "note": "It is important to consult with a healthcare professional or a specialist in infectious diseases to determine the best course of treatment for your chickenpox.",
+      "imageURL": "https://cloud.appwrite.io/v1/storage/buckets/63cbe7eb86f859942c32/files/63cc1465e865b25b7124/view?project=63caf7433048aa5d17fe&mode=admin"
+    },
+    {
+      "name": "Typhoid",
+      "about": "Typhoid fever is a serious bacterial infection caused by the Salmonella typhi bacteria.",
+      "symptoms": [
+        "Fever: High fever is one of the most common symptoms of typhoid fever and can range from mild to severe.",
+        "Weakness and fatigue: Typhoid fever can cause extreme fatigue, weakness, and exhaustion.",
+        "Loss of appetite: Some people may lose their appetite during the course of the illness.",
+        "Headache: Some people may experience a headache along with the fever.",
+        "Abdominal pain: Typhoid fever can cause abdominal pain, constipation or diarrhea",
+        "Sore throat: Some people may experience a sore throat.",
+        "Cough: Some people may experience a cough.",
+        "Rose-colored spots on the chest: Some people may develop small, flat, pink or red spots on the chest, stomach, or upper back.",
+        "Confusion: Some people may experience confusion or disorientation."
+      ],
+      "home_remedies": [
+        "Hydration: Drinking plenty of water can help to prevent dehydration, which can worsen the symptoms of typhoid fever.",
+        "Rest: Getting plenty of rest can help to reduce fatigue and weakness, which are common symptoms of typhoid fever.",
+        "Herbal teas: Drinking herbal teas, such as chamomile, lemon balm, and ginger, can help to reduce fever and improve digestion.",
+        "Vitamin C: Vitamin C supplements can help to boost the immune system and fight against infection.",
+        "Garlic: Garlic contains compounds that can help to boost the immune system and fight against infection.",
+        "Turmeric: Turmeric contains compounds that can help to reduce inflammation and improve the immune system.",
+        "Papaya leaves: Papaya leaves contain compounds that can help to increase platelet count and improve the immune system."
+      ],
+      "medications": [
+        "Over-the-counter pain relievers: Taking over-the-counter pain relievers, such as acetaminophen or ibuprofen, can help to alleviate headache, muscle pain, and fever."
+      ],
+      "note": "It's important to note that antibiotic resistance is a growing concern in typhoid fever, so it's important to consult with a healthcare professional to determine the best course of treatment.",
+      "imageURL": "https://cloud.appwrite.io/v1/storage/buckets/63cbe7eb86f859942c32/files/63cc148d40f48908dea8/view?project=63caf7433048aa5d17fe&mode=admin"
+    },
+    {
+      "name": "Tubercolosis",
+      "about": "Tuberculosis (TB) is a serious bacterial infection that primarily affects the lungs but can also affect other parts of the body.",
+      "symptoms": [
+        "Cough: A persistent cough that lasts for more than 3 weeks is a common symptom of TB.",
+        "Chest pain: Chest pain is a common symptom of TB, especially when coughing or breathing deeply.",
+        "Fatigue: Individuals with TB may feel tired and weak.",
+        "Loss of appetite: Some people may lose their appetite during the course of the illness.",
+        "Weight loss: Some people may experience weight loss as a result of the illness.",
+        "Night sweats: Some people may experience night sweats, especially during the first few weeks of the illness.",
+        "Fever: Some people may experience a fever, especially during the first few weeks of the illness.",
+        "Shortness of breath: Some people may experience shortness of breath, especially during physical activity.",
+        "Hemoptysis: Some people may cough up blood or blood-tinged phlegm.",
+        "Weakness: Some people may experience weakness or fatigue."
+      ],
+      "home_remedies": [
+        "Hydration: Drinking plenty of water can help to prevent dehydration, which can worsen the symptoms of TB.",
+        "Rest: Getting plenty of rest can help to reduce fatigue and weakness, which are common symptoms of TB.",
+        "Herbal teas: Drinking herbal teas, such as chamomile, lemon balm, and ginger, can help to reduce fever and improve digestion.",
+        "Vitamin C: Vitamin C supplements can help to boost the immune system and fight against infection.",
+        "Garlic: Garlic contains compounds that can help to boost the immune system and fight against infection.",
+        "Turmeric: Turmeric contains compounds that can help to reduce inflammation and improve the immune system.",
+        "Papaya leaves: Papaya leaves contain compounds that can help to increase platelet count and improve the immune system."
+      ],
+      "medications": [
+        "Over-the-counter pain relievers: Taking over-the-counter pain relievers, such as acetaminophen or ibuprofen, can help to alleviate headache, muscle pain, and fever."
+      ],
+      "note": "It's important to note that while these remedies may help alleviate symptoms, they are not a substitute for proper medical treatment and should be used in conjunction with antibiotics prescribed by a healthcare professional.",
+      "imageURL": "https://cloud.appwrite.io/v1/storage/buckets/63cbe7eb86f859942c32/files/63cc14884e7ca1bc568f/view?project=63caf7433048aa5d17fe&mode=admin"
+    }
+  ]
+}
