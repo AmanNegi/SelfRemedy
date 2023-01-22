@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
         valueListenable: appdata,
         builder: (context, value, child) {
           return value.isFirstTime
-              ? WelcomePage()
+              ? const WelcomePage()
               : value.isLoggedIn
                   ? const HomePage()
                   : const SignUpPage();

@@ -91,10 +91,11 @@ class _DiseaseBottomSheetState extends State<DiseaseBottomSheet> {
                     const SizedBox(height: 10),
                     Expanded(
                       child: GridView.builder(
-                          padding: const EdgeInsets.symmetric(horizontal: 15.0),
+                          padding: const EdgeInsets.only(
+                              left: 15.0, right: 15.0, bottom: 15.0),
                           itemCount: dataManager.getData().length,
                           controller: scrollController,
-                          physics: const NeverScrollableScrollPhysics(),
+                          // physics: const NeverScrollableScrollPhysics(),
                           gridDelegate:
                               const SliverGridDelegateWithFixedCrossAxisCount(
                             crossAxisSpacing: 10.0,
